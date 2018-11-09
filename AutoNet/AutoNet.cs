@@ -16,7 +16,7 @@ using Autodesk.AutoCAD.DatabaseServices;
 using Autodesk.AutoCAD.EditorInput;
 using Autodesk.AutoCAD.Runtime;
 
-namespace AutoListAC
+namespace AutoNet
 {
     public static class AutoNet
     {
